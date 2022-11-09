@@ -1,0 +1,24 @@
+.addcontact {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    /* margin-left: 10%; */
+    justify-content: center;
+    align-items: center;
+}
+
+.addcontact h2 {
+    width: 80%;
+}
+
+.addcontact form {
+    width: 80%;
+}
+.buttonContainer{
+    display: flex;
+    /* border: 2px solid blue; */
+    /* justify-content: space-between; */
+}
+.buttonContainer .blue{
+    margin-right: 15px;
+}
